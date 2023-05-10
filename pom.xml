@@ -22,8 +22,8 @@
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://13.40.187.84:9000/</sonar.host.url>
-		<sonar.login>venkey</sonar.login>
-		<sonar.password>venkey@7890</sonar.password>
+		<sonar.login>admin</sonar.login>
+		<sonar.password>password</sonar.password>
 		<sonar.login>squ_5e67d902fb78581f68dd69a719da66a24800f215</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
